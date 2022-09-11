@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+.active {
+  color: rgb(171, 171, 243) !important;
+}
+
 .mainSection {
   width: 100%;
   height: 100vh;
